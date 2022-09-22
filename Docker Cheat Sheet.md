@@ -81,7 +81,7 @@ docker rename OLD_NAME NEW_NAME
 
 > create an image from a docker file 
 ``` bash
-docker build -t 
+docker build -t TAG_NAME:V1.0 .
 ```
 
 ### 2.1 Manage image
