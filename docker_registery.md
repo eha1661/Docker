@@ -18,3 +18,16 @@ docker push IMAGE_NAME:TAG
 ``` bash
 docker pull IMAGE_NAME:TAG
 ```
+
+
+
+# IMPORTANT 
+1. Docker volumes
+* https://www.youtube.com/watch?v=p2PH_YPCsis
+* https://www.youtube.com/watch?v=3c-iBn73dDE  ( screen shots )
+* https://docs.docker.com/storage/volumes/   ===  volumes
+* https://docs.docker.com/storage/bind-mounts/  === bind mounts
+* https://docs.docker.com/storage/tmpfs/      tmpfs mounts
+
+https://www.atatus.com/blog/docker-volumes-vs-bind-mounts/
+
